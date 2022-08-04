@@ -1,0 +1,11 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CaffieneSage/AlphaBlog.git",
+  "author": "Jamie <caffeinesage44@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
